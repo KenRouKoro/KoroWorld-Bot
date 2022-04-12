@@ -18,6 +18,8 @@ GroupID =
 NudgeText = 
 #在群组中QQ群的服务器名
 BotName =
+#服务核心WS地址
+WSServer = 
 ```
 dervice.json
 
