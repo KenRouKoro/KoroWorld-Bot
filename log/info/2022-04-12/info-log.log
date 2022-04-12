@@ -1,0 +1,76 @@
+[2022-04-12 23:29:18.989] [main] [INFO ] [cn.korostudio.koroworldbot.main.Main] - 配置文件读取完毕.
+[2022-04-12 23:29:18.993] [main] [INFO ] [cn.korostudio.koroworldbot.main.Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-04-12 23:29:19.062] [WebSocketConnectReadThread-30] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-04-12 23:29:19.323] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-04-12 23:29:19.334] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-04-12 23:29:29.065] [WebSocketConnectReadThread-37] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-04-12 23:30:01.445] [main] [INFO ] [cn.korostudio.koroworldbot.main.Main] - 配置文件读取完毕.
+[2022-04-12 23:30:01.450] [main] [INFO ] [cn.korostudio.koroworldbot.main.Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-04-12 23:30:01.515] [WebSocketConnectReadThread-30] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-04-12 23:30:01.696] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-04-12 23:30:01.697] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-04-12 23:30:11.531] [WebSocketConnectReadThread-48] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-04-12 23:30:25.300] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-04-12 23:31:10.784] [main] [INFO ] [cn.korostudio.koroworldbot.main.Main] - 配置文件读取完毕.
+[2022-04-12 23:31:10.788] [main] [INFO ] [cn.korostudio.koroworldbot.main.Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-04-12 23:31:10.860] [WebSocketConnectReadThread-30] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-04-12 23:31:11.058] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-04-12 23:31:11.060] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-04-12 23:31:13.683] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Server list: 180.109.156.44:443, 101.91.37.175:80, 119.147.190.155:8080, 42.81.184.82:443, 42.81.169.46:80, msfwifi.3g.qq.com:8080, 101.91.43.168:8080, 42.81.170.40:443, 119.147.190.153:443, 183.47.99.24:14000.
+[2022-04-12 23:31:14.522] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-04-12 23:31:14.529] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is invalid, start to fetch ecdh public key from server.
+[2022-04-12 23:31:15.563] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Successfully fetched ecdh public key from server.
+[2022-04-12 23:31:16.493] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Login successful
+[2022-04-12 23:31:16.500] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-04-12 23:31:16.754] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-04-12 23:31:16.756] [nioEventLoopGroup-2-5] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1649777476, diff: 0ms=0.0s
+[2022-04-12 23:31:16.765] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-04-12 23:31:16.774] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-04-12 23:31:16.774] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-04-12 23:31:16.844] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-04-12 23:31:16.958] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-04-12 23:31:16.973] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-04-12 23:31:16.978] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-04-12 23:31:17.045] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-04-12 23:31:17.516] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 2 in total.
+[2022-04-12 23:31:17.525] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-04-12 23:31:17.526] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 机器人启动完毕.
+[2022-04-12 23:31:17.526] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在添加监听.
+[2022-04-12 23:31:17.528] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-04-12 23:31:17.528] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-04-12 23:31:19.632] [nioEventLoopGroup-2-15] [INFO ] [net.mamoe.mirai.Bot] - Server list: 183.47.99.24:14000, 49.7.253.141:80, 114.222.112.90:8080, 49.7.253.219:443, 183.47.98.77:8080, 49.7.253.32:80, 180.102.191.69:80, 183.47.102.193:8080, 49.7.253.123:443, msfwifi.3g.qq.com:8080.
+[2022-04-12 23:31:20.864] [WebSocketConnectReadThread-71] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-04-12 23:31:36.866] [DefaultDispatcher-worker-5] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:舔
+[2022-04-12 23:31:47.538] [DefaultDispatcher-worker-5] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:草
+[2022-04-12 23:31:53.129] [DefaultDispatcher-worker-3] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:舔
+[2022-04-12 23:32:13.251] [DefaultDispatcher-worker-2] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:可以上传github了（
+[2022-04-12 23:32:21.597] [DefaultDispatcher-worker-2] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:初版可公开了（
+[2022-04-12 23:32:34.447] [DefaultDispatcher-worker-2] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:写个readme先
+[2022-04-12 23:32:38.044] [DefaultDispatcher-worker-2] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:啥
+[2022-04-12 23:32:39.300] [DefaultDispatcher-worker-2] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:机器人？
+[2022-04-12 23:32:50.707] [DefaultDispatcher-worker-2] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:[图片]
+[2022-04-12 23:33:21.945] [DefaultDispatcher-worker-2] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:有空再模块化实现了

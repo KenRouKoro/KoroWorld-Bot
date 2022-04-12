@@ -1,0 +1,561 @@
+[2022-01-09 01:26:55.372] [main] [INFO ] [Main] -  Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 01:27:05.095] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 01:56:25.803] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 01:56:26.193] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 01:56:26.195] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 01:56:29.608] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is invalid, start to fetch ecdh public key from server.
+[2022-01-09 01:56:30.875] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Successfully fetched ecdh public key from server.
+[2022-01-09 01:56:38.199] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Bot cancelled: Bot closed
+[2022-01-09 01:57:18.393] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 01:57:18.702] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 01:57:18.704] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 02:01:00.103] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 02:01:00.442] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 02:01:00.444] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 02:01:03.553] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is invalid, start to fetch ecdh public key from server.
+[2022-01-09 02:01:04.850] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Successfully fetched ecdh public key from server.
+[2022-01-09 02:06:49.203] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 02:06:49.507] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 02:06:49.509] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 02:06:52.800] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is invalid, start to fetch ecdh public key from server.
+[2022-01-09 02:06:53.911] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Successfully fetched ecdh public key from server.
+[2022-01-09 02:08:23.945] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Bot cancelled: Bot closed
+[2022-01-09 02:08:40.155] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 02:08:40.531] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 02:08:40.532] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 02:08:43.888] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is invalid, start to fetch ecdh public key from server.
+[2022-01-09 02:08:45.126] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Successfully fetched ecdh public key from server.
+[2022-01-09 02:10:19.124] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Bot cancelled: Bot closed
+[2022-01-09 02:10:27.311] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 02:10:27.753] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 02:10:27.755] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 02:10:31.229] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is invalid, start to fetch ecdh public key from server.
+[2022-01-09 02:10:32.445] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Successfully fetched ecdh public key from server.
+[2022-01-09 02:13:29.232] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 02:13:29.585] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 02:13:29.587] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 02:13:32.880] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is invalid, start to fetch ecdh public key from server.
+[2022-01-09 02:13:34.059] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Successfully fetched ecdh public key from server.
+[2022-01-09 02:15:39.376] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 02:15:39.708] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 02:15:39.710] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 02:15:43.041] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is invalid, start to fetch ecdh public key from server.
+[2022-01-09 02:15:44.392] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Successfully fetched ecdh public key from server.
+[2022-01-09 02:18:09.686] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Login successful
+[2022-01-09 02:18:09.698] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 02:18:09.813] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 02:18:09.814] [nioEventLoopGroup-2-6] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641665889, diff: 0ms=0.0s
+[2022-01-09 02:18:09.820] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 02:18:09.846] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 02:18:09.847] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 02:18:09.897] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 02:18:09.984] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 02:18:10.040] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 02:18:10.049] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 02:18:10.384] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 02:18:10.402] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 02:18:10.405] [DefaultDispatcher-worker-7] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 02:18:10.405] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 02:18:10.406] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在启动机器人.
+[2022-01-09 02:18:10.407] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 02:18:12.698] [nioEventLoopGroup-2-21] [INFO ] [net.mamoe.mirai.Bot] - Server list: 101.91.40.60:80, 42.81.172.22:443, 113.96.13.79:8080, 180.163.212.164:443, 114.222.112.229:8080, 113.96.13.125:8080, msfwifi.3g.qq.com:8080, 42.81.184.75:80, 119.147.190.153:14000, 42.81.172.207:443.
+[2022-01-09 02:18:41.481] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 02:18:41.883] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 02:18:41.885] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 02:18:43.697] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Server list: 101.91.40.60:80, 42.81.172.22:443, 113.96.13.79:8080, 180.163.212.164:443, 114.222.112.229:8080, 113.96.13.125:8080, msfwifi.3g.qq.com:8080, 42.81.184.75:80, 119.147.190.153:14000, 42.81.172.207:443.
+[2022-01-09 02:18:45.017] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-01-09 02:18:45.037] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is valid.
+[2022-01-09 02:18:45.505] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 02:18:45.649] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 02:18:45.650] [nioEventLoopGroup-2-3] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641665925, diff: 0ms=0.0s
+[2022-01-09 02:18:45.656] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 02:18:45.677] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 02:18:45.681] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 02:18:45.731] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 02:18:45.822] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 02:18:45.840] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 02:18:45.864] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 02:18:45.911] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 02:18:46.190] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 02:18:46.201] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 02:18:46.201] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 02:18:46.201] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在启动机器人.
+[2022-01-09 02:18:46.201] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 02:46:53.954] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 02:46:54.358] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 02:46:54.359] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 02:46:56.138] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Server list: 101.91.40.60:80, 42.81.172.22:443, 113.96.13.79:8080, 180.163.212.164:443, 114.222.112.229:8080, 113.96.13.125:8080, msfwifi.3g.qq.com:8080, 42.81.184.75:80, 119.147.190.153:14000, 42.81.172.207:443.
+[2022-01-09 02:46:57.595] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-01-09 02:46:57.615] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is valid.
+[2022-01-09 02:46:58.105] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 02:46:58.218] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 02:46:58.218] [nioEventLoopGroup-2-3] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641667617, diff: -1ms=-0.001s
+[2022-01-09 02:46:58.224] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 02:46:58.244] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 02:46:58.246] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 02:46:58.293] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 02:46:58.363] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 02:46:58.374] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 02:46:58.387] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 02:46:58.500] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 02:46:58.820] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 02:46:58.827] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 02:46:58.827] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 02:46:58.828] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 02:46:58.828] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 机器人启动完毕.
+[2022-01-09 02:46:58.828] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在添加监听.
+[2022-01-09 02:47:01.105] [nioEventLoopGroup-2-11] [INFO ] [net.mamoe.mirai.Bot] - Server list: 101.91.37.242:443, 49.7.253.214:80, 183.47.98.77:14000, 180.102.111.105:8080, 113.96.13.95:8080, msfwifi.3g.qq.com:8080, 113.96.13.87:8080, 180.163.212.180:80, 42.81.172.147:443, 42.81.170.24:443.
+[2022-01-09 03:30:00.777] [main] [INFO ] [Main] - 配置文件读取完毕.
+[2022-01-09 03:30:00.785] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 03:30:01.079] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 03:30:01.082] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 03:30:04.348] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is invalid, start to fetch ecdh public key from server.
+[2022-01-09 03:30:05.496] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Successfully fetched ecdh public key from server.
+[2022-01-09 03:30:06.091] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful
+[2022-01-09 03:30:06.102] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 03:30:06.212] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 03:30:06.215] [nioEventLoopGroup-2-4] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641670205, diff: -1ms=-0.001s
+[2022-01-09 03:30:06.230] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 03:30:06.257] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 03:30:06.261] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 03:30:06.315] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 03:30:06.358] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 03:30:06.374] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 03:30:06.386] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 03:30:06.461] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 03:30:06.731] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 03:30:06.742] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 03:30:06.742] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 03:30:06.743] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 03:30:06.744] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 机器人启动完毕.
+[2022-01-09 03:30:06.744] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在添加监听.
+[2022-01-09 03:30:09.138] [nioEventLoopGroup-2-12] [INFO ] [net.mamoe.mirai.Bot] - Server list: 49.7.253.88:443, 183.47.117.157:8080, msfwifi.3g.qq.com:8080, 101.91.40.21:443, 101.91.40.121:80, 42.81.184.206:443, 114.222.112.229:8080, 183.47.98.90:14000, 113.96.13.208:8080, 49.7.253.58:80.
+[2022-01-09 03:37:12.624] [main] [INFO ] [Main] - 配置文件读取完毕.
+[2022-01-09 03:37:12.631] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 03:37:12.938] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 03:37:12.940] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 03:37:14.636] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Server list: 49.7.253.88:443, 183.47.117.157:8080, msfwifi.3g.qq.com:8080, 101.91.40.21:443, 101.91.40.121:80, 42.81.184.206:443, 114.222.112.229:8080, 183.47.98.90:14000, 113.96.13.208:8080, 49.7.253.58:80.
+[2022-01-09 03:37:16.037] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-01-09 03:37:16.052] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is valid.
+[2022-01-09 03:37:16.548] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 03:37:16.676] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 03:37:16.677] [nioEventLoopGroup-2-3] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641670636, diff: 0ms=0.0s
+[2022-01-09 03:37:16.681] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 03:37:16.705] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 03:37:16.705] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 03:37:16.761] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 03:37:16.805] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 03:37:16.807] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 03:37:16.826] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 03:37:16.986] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 03:37:17.104] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 03:37:17.114] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 03:37:17.114] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 03:37:17.114] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 03:37:17.115] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 机器人启动完毕.
+[2022-01-09 03:37:17.115] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在添加监听.
+[2022-01-09 03:38:08.044] [DefaultDispatcher-worker-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:@3573910369 透
+[2022-01-09 03:39:39.788] [main] [INFO ] [Main] - 配置文件读取完毕.
+[2022-01-09 03:39:39.793] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 03:39:40.050] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 03:39:40.052] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 03:39:41.747] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Server list: 49.7.253.88:443, 183.47.117.157:8080, msfwifi.3g.qq.com:8080, 101.91.40.21:443, 101.91.40.121:80, 42.81.184.206:443, 114.222.112.229:8080, 183.47.98.90:14000, 113.96.13.208:8080, 49.7.253.58:80.
+[2022-01-09 03:39:43.037] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-01-09 03:39:43.055] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is valid.
+[2022-01-09 03:39:43.643] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 03:39:43.781] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 03:39:43.782] [nioEventLoopGroup-2-3] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641670783, diff: 0ms=0.0s
+[2022-01-09 03:39:43.790] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 03:39:43.815] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 03:39:43.816] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 03:39:43.863] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 03:39:43.920] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 03:39:43.931] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 03:39:43.947] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 03:39:44.094] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 03:39:44.202] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 03:39:44.213] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 03:39:44.213] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 03:39:44.214] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 机器人启动完毕.
+[2022-01-09 03:39:44.214] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 03:39:44.214] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在添加监听.
+[2022-01-09 03:39:54.195] [DefaultDispatcher-worker-4] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:@3573910369 舔
+[2022-01-09 03:40:01.875] [DefaultDispatcher-worker-4] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:[动画表情]
+[2022-01-09 04:29:18.795] [main] [INFO ] [Main] - 配置文件读取完毕.
+[2022-01-09 04:29:18.799] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 04:29:18.892] [WebSocketConnectReadThread-30] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 04:29:19.091] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 04:29:19.092] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 04:29:20.986] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Server list: 49.7.253.88:443, 183.47.117.157:8080, msfwifi.3g.qq.com:8080, 101.91.40.21:443, 101.91.40.121:80, 42.81.184.206:443, 114.222.112.229:8080, 183.47.98.90:14000, 113.96.13.208:8080, 49.7.253.58:80.
+[2022-01-09 04:29:22.419] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-01-09 04:29:22.441] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is valid.
+[2022-01-09 04:29:22.995] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 04:29:23.106] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 04:29:23.106] [nioEventLoopGroup-2-3] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641673762, diff: -1ms=-0.001s
+[2022-01-09 04:29:23.115] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 04:29:23.130] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 04:29:23.132] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 04:29:23.177] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 04:29:23.217] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 04:29:23.231] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 04:29:23.261] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 04:29:23.293] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 04:29:23.473] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 04:29:23.485] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 04:29:23.485] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 04:29:23.486] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 04:29:23.486] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 机器人启动完毕.
+[2022-01-09 04:29:23.486] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在添加监听.
+[2022-01-09 04:29:26.007] [nioEventLoopGroup-2-11] [INFO ] [net.mamoe.mirai.Bot] - Server list: 183.47.98.11:14000, 42.81.192.181:443, 101.91.42.98:443, 49.7.253.58:443, 101.91.37.175:80, 49.7.253.214:80, 183.47.99.24:8080, msfwifi.3g.qq.com:8080, 183.47.117.157:8080, 101.91.40.121:8080.
+[2022-01-09 04:29:28.891] [WebSocketConnectReadThread-64] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 04:53:02.693] [main] [INFO ] [Main] - 配置文件读取完毕.
+[2022-01-09 04:53:02.697] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 04:53:02.791] [WebSocketConnectReadThread-30] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 04:53:02.985] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 04:53:02.988] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 04:53:04.847] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Server list: 183.47.98.11:14000, 42.81.192.181:443, 101.91.42.98:443, 49.7.253.58:443, 101.91.37.175:80, 49.7.253.214:80, 183.47.99.24:8080, msfwifi.3g.qq.com:8080, 183.47.117.157:8080, 101.91.40.121:8080.
+[2022-01-09 04:53:06.268] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-01-09 04:53:06.289] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is valid.
+[2022-01-09 04:53:06.868] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 04:53:07.055] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 04:53:07.055] [nioEventLoopGroup-2-3] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641675186, diff: -1ms=-0.001s
+[2022-01-09 04:53:07.062] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 04:53:07.078] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 04:53:07.081] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 04:53:07.142] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 04:53:07.172] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 04:53:07.178] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 04:53:07.195] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 04:53:07.293] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 04:53:07.496] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 04:53:07.507] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 04:53:07.507] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 机器人启动完毕.
+[2022-01-09 04:53:07.508] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在添加监听.
+[2022-01-09 04:53:07.508] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 04:53:07.508] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 04:53:09.882] [nioEventLoopGroup-2-11] [INFO ] [net.mamoe.mirai.Bot] - Server list: 113.96.18.205:8080, 180.109.192.45:80, 42.81.184.82:80, 42.81.184.101:443, 113.96.18.167:8080, 180.163.212.180:443, msfwifi.3g.qq.com:8080, 49.7.253.65:443, 114.222.112.229:8080, 113.96.12.27:14000.
+[2022-01-09 04:53:12.787] [WebSocketConnectReadThread-65] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 05:06:50.569] [main] [INFO ] [Main] - 配置文件读取完毕.
+[2022-01-09 05:06:50.575] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 05:06:50.684] [WebSocketConnectReadThread-30] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 05:06:50.912] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 05:06:50.913] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 05:06:52.978] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Server list: 113.96.18.205:8080, 180.109.192.45:80, 42.81.184.82:80, 42.81.184.101:443, 113.96.18.167:8080, 180.163.212.180:443, msfwifi.3g.qq.com:8080, 49.7.253.65:443, 114.222.112.229:8080, 113.96.12.27:14000.
+[2022-01-09 05:06:54.561] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-01-09 05:06:54.587] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is valid.
+[2022-01-09 05:06:55.083] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 05:06:55.212] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 05:06:55.213] [nioEventLoopGroup-2-3] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641676014, diff: -1ms=-0.001s
+[2022-01-09 05:06:55.225] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 05:06:55.246] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 05:06:55.247] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 05:06:55.305] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 05:06:55.343] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 05:06:55.349] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 05:06:55.490] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 05:06:55.506] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 05:06:55.697] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 05:06:55.707] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 05:06:55.707] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 机器人启动完毕.
+[2022-01-09 05:06:55.708] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在添加监听.
+[2022-01-09 05:06:55.710] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 05:06:55.710] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 05:06:58.106] [nioEventLoopGroup-2-11] [INFO ] [net.mamoe.mirai.Bot] - Server list: 180.102.110.41:443, 183.47.98.25:14000, 125.94.60.148:8080, 221.238.41.89:80, 101.91.42.98:80, 49.7.253.45:443, msfwifi.3g.qq.com:8080, 119.147.190.153:8080, 42.81.170.51:443, 180.102.110.73:8080.
+[2022-01-09 05:07:00.686] [WebSocketConnectReadThread-64] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 05:07:40.717] [main] [INFO ] [Main] - 配置文件读取完毕.
+[2022-01-09 05:07:40.721] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 05:07:40.850] [WebSocketConnectReadThread-30] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 05:07:41.088] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 05:07:41.091] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 05:07:43.160] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Server list: 180.102.110.41:443, 183.47.98.25:14000, 125.94.60.148:8080, 221.238.41.89:80, 101.91.42.98:80, 49.7.253.45:443, msfwifi.3g.qq.com:8080, 119.147.190.153:8080, 42.81.170.51:443, 180.102.110.73:8080.
+[2022-01-09 05:07:44.675] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-01-09 05:07:44.699] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is valid.
+[2022-01-09 05:07:45.278] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 05:07:45.421] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 05:07:45.423] [nioEventLoopGroup-2-3] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641676064, diff: -1ms=-0.001s
+[2022-01-09 05:07:45.433] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 05:07:45.455] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 05:07:45.456] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 05:07:45.556] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 05:07:45.571] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 05:07:45.576] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 05:07:45.587] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 05:07:45.709] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 05:07:45.967] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 05:07:45.980] [DefaultDispatcher-worker-6] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 05:07:45.980] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 05:07:45.981] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 05:07:45.982] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 机器人启动完毕.
+[2022-01-09 05:07:45.982] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在添加监听.
+[2022-01-09 05:07:50.859] [WebSocketConnectReadThread-65] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 05:08:38.449] [main] [INFO ] [Main] - 配置文件读取完毕.
+[2022-01-09 05:08:38.456] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 05:08:38.550] [WebSocketConnectReadThread-30] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 05:08:38.805] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 05:08:38.807] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 05:08:40.904] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Server list: 180.102.110.41:443, 183.47.98.25:14000, 125.94.60.148:8080, 221.238.41.89:80, 101.91.42.98:80, 49.7.253.45:443, msfwifi.3g.qq.com:8080, 119.147.190.153:8080, 42.81.170.51:443, 180.102.110.73:8080.
+[2022-01-09 05:08:42.477] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-01-09 05:08:42.498] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is valid.
+[2022-01-09 05:08:43.300] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 05:08:43.432] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 05:08:43.434] [nioEventLoopGroup-2-3] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641676123, diff: 0ms=0.0s
+[2022-01-09 05:08:43.444] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 05:08:43.463] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 05:08:43.467] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 05:08:43.528] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 05:08:43.562] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 05:08:43.570] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 05:08:43.590] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 05:08:43.768] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 05:08:44.146] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 05:08:44.156] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 05:08:44.158] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 05:08:44.159] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 05:08:44.159] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 机器人启动完毕.
+[2022-01-09 05:08:44.159] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在添加监听.
+[2022-01-09 05:08:48.555] [WebSocketConnectReadThread-63] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 05:08:49.746] [DefaultDispatcher-worker-5] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:nm和这傻逼qq表情斗智斗勇
+[2022-01-09 05:09:03.692] [DefaultDispatcher-worker-5] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:/#say test
+[2022-01-09 05:10:12.708] [main] [INFO ] [Main] - 配置文件读取完毕.
+[2022-01-09 05:10:12.718] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 05:10:12.866] [WebSocketConnectReadThread-30] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 05:10:13.109] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 05:10:13.110] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 05:10:15.230] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Server list: 180.102.110.41:443, 183.47.98.25:14000, 125.94.60.148:8080, 221.238.41.89:80, 101.91.42.98:80, 49.7.253.45:443, msfwifi.3g.qq.com:8080, 119.147.190.153:8080, 42.81.170.51:443, 180.102.110.73:8080.
+[2022-01-09 05:10:16.797] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-01-09 05:10:16.816] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is valid.
+[2022-01-09 05:10:17.439] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 05:10:17.564] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 05:10:17.565] [nioEventLoopGroup-2-3] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641676217, diff: 0ms=0.0s
+[2022-01-09 05:10:17.571] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 05:10:17.595] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 05:10:17.601] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 05:10:17.671] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 05:10:17.689] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 05:10:17.695] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 05:10:17.702] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 05:10:17.771] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 05:10:18.011] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 05:10:18.026] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 05:10:18.026] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 05:10:18.029] [DefaultDispatcher-worker-2] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 05:10:18.029] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 机器人启动完毕.
+[2022-01-09 05:10:18.029] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在添加监听.
+[2022-01-09 05:10:22.865] [WebSocketConnectReadThread-63] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 05:10:30.534] [DefaultDispatcher-worker-5] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:#say test
+[2022-01-09 14:02:02.398] [main] [INFO ] [Main] - 配置文件读取完毕.
+[2022-01-09 14:02:02.410] [main] [INFO ] [Main] - 
+ Power By :
+ _   __                  _____ _             _ _
+| | / /                 /  ___| |           | (_)
+| |/ /  ___  _ __ ___   \ `--.| |_ _   _  __| |_  ___
+|    \ / _ \| '__/ _ \   `--. \ __| | | |/ _` | |/ _ \
+| |\  \ (_) | | | (_) | /\__/ / |_| |_| | (_| | | (_) |
+\_| \_/\___/|_|  \___/  \____/ \__|\__,_|\__,_|_|\___/
+
+[2022-01-09 14:02:02.551] [WebSocketConnectReadThread-30] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 14:02:03.127] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.
+[2022-01-09 14:02:03.130] [pool-2-thread-1] [INFO ] [net.mamoe.mirai.utils.WindowHelperJvm] - Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.
+[2022-01-09 14:02:06.871] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Server list: 180.102.110.41:443, 183.47.98.25:14000, 125.94.60.148:8080, 221.238.41.89:80, 101.91.42.98:80, 49.7.253.45:443, msfwifi.3g.qq.com:8080, 119.147.190.153:8080, 42.81.170.51:443, 180.102.110.73:8080.
+[2022-01-09 14:02:08.956] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Loaded account secrets from local cache.
+[2022-01-09 14:02:08.966] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is valid.
+[2022-01-09 14:02:09.705] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 14:02:09.955] [DefaultDispatcher-worker-1] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 14:02:09.956] [nioEventLoopGroup-2-3] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641708130, diff: 1ms=0.001s
+[2022-01-09 14:02:09.969] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history...
+[2022-01-09 14:02:10.002] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Start loading friend list...
+[2022-01-09 14:02:10.005] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Start loading stranger list...
+[2022-01-09 14:02:10.194] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Start loading group list...
+[2022-01-09 14:02:10.341] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded stranger list: 0 in total
+[2022-01-09 14:02:10.366] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - No OtherClient online.
+[2022-01-09 14:02:10.408] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded friend list: 3 in total
+[2022-01-09 14:02:10.429] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Syncing friend message history: Success.
+[2022-01-09 14:02:10.847] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Successfully loaded group list: 1 in total.
+[2022-01-09 14:02:10.859] [DefaultDispatcher-worker-3] [INFO ] [net.mamoe.mirai.Bot] - Bot login successful.
+[2022-01-09 14:02:10.859] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 机器人启动完毕.
+[2022-01-09 14:02:10.859] [pool-2-thread-1] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - 正在添加监听.
+[2022-01-09 14:02:10.862] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 14:02:10.863] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 14:02:12.562] [WebSocketConnectReadThread-64] [INFO ] [cn.korostudio.koroworldbot.ws.WSClient] - WS Connect Close.
+[2022-01-09 14:02:12.823] [nioEventLoopGroup-2-11] [INFO ] [net.mamoe.mirai.Bot] - Server list: 180.109.156.44:443, 101.91.40.121:8080, 42.81.172.207:443, 183.47.98.105:443, 183.47.99.24:8080, 180.163.212.180:80, 113.96.18.167:14000, 42.81.170.122:443, msfwifi.3g.qq.com:8080, 42.81.192.181:80.
+[2022-01-09 14:02:22.644] [DefaultDispatcher-worker-4] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:?
+[2022-01-09 14:02:29.918] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Server list: 180.109.156.44:443, 101.91.40.121:8080, 42.81.172.207:443, 183.47.98.105:443, 183.47.99.24:8080, 180.163.212.180:80, 113.96.18.167:14000, 42.81.170.122:443, msfwifi.3g.qq.com:8080, 42.81.192.181:80.
+[2022-01-09 14:02:29.918] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - ECDH key is valid.
+[2022-01-09 14:02:30.245] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Saved account secrets to local cache for fast login.
+[2022-01-09 14:02:30.636] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Login successful.
+[2022-01-09 14:02:30.636] [nioEventLoopGroup-3-3] [INFO ] [net.mamoe.mirai.Bot] - Server time updated, serverTime: 1641708150, diff: 0ms=0.0s
+[2022-01-09 14:02:30.638] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Scheduled refresh login session in 19d 23h 55min 0.0s.
+[2022-01-09 14:02:30.638] [DefaultDispatcher-worker-4] [INFO ] [net.mamoe.mirai.Bot] - Scheduled key refresh in 23h 55min 0.0s.
+[2022-01-09 14:02:30.639] [DefaultDispatcher-worker-5] [INFO ] [net.mamoe.mirai.Bot] - Reconnected successfully in 0.973s.
+[2022-01-09 14:02:33.281] [nioEventLoopGroup-3-4] [INFO ] [net.mamoe.mirai.Bot] - Server list: 180.109.156.44:443, 101.91.37.175:80, 119.147.190.155:8080, 42.81.184.82:443, 42.81.169.46:80, msfwifi.3g.qq.com:8080, 101.91.43.168:8080, 42.81.170.40:443, 119.147.190.153:443, 183.47.99.24:14000.
+[2022-01-09 14:02:34.978] [DefaultDispatcher-worker-3] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:回应怎么都boom了
+[2022-01-09 14:02:52.892] [DefaultDispatcher-worker-3] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:?
+[2022-01-09 14:04:20.827] [DefaultDispatcher-worker-5] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:完了 戳high了
+[2022-01-09 14:04:40.914] [DefaultDispatcher-worker-5] [INFO ] [cn.korostudio.koroworldbot.thread.BotThread] - msg:吾本地测试都发不出来
